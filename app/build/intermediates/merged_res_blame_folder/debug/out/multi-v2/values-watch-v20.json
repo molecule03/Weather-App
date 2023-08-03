@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.weatherapp-mergeDebugResources-15:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/molecule03/.gradle/caches/transforms-3/91594eb5d83fa5f54f3932629e047d32/transformed/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
